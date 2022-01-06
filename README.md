@@ -10,4 +10,4 @@
     - HTTP 메시지((https://github.com/fireyw/HTTP_STUDY/wiki/3.-HTTP-%EB%A9%94%EC%8B%9C%EC%A7%80)
 
 ## 2주차
-    
+    - [이민현](https://github.com/CodingInterviewStudy/CrackingTheCodingInterview/wiki/1주차-2)

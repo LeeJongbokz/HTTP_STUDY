@@ -1,5 +1,5 @@
 ## 0주차 들어가기 
-- [스터디 진행 방식]
+- [스터디 진행 방식] (https://github.com/fireyw/HTTP_STUDY/wiki)
 
 ## 1주차
 - [김용우]
